@@ -1,0 +1,11 @@
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"AllowCStates"=dword:00000000
+"MinimumProcessorState"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxUserPort"=dword:0000FFFF
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:00000001
